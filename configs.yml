@@ -15,7 +15,7 @@ github:
 in_progress:
   season: 2                              # Season in progress (starting from 1)(format: integer) 
   episode: 3                             # Episode in progress (starting from 1)(format: integer)
-  frame: 581                             # last frame posted if script stopped (starting from 0)(format: integer)
+  frame: 591                             # last frame posted if script stopped (starting from 0)(format: integer)
 
 
 
